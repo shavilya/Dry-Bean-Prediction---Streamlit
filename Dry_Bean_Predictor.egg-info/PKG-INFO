@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Dry-Bean-Predictor
+Version: 1.0.0
+Author: Shavilya Rajput
+Author-email: shavilyarajput50@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: pickle5
+Requires-Dist: scikit-learn
+Requires-Dist: streamlit
+Requires-Dist: dill

@@ -1,0 +1,7 @@
+README.md
+setup.py
+Dry_Bean_Predictor.egg-info/PKG-INFO
+Dry_Bean_Predictor.egg-info/SOURCES.txt
+Dry_Bean_Predictor.egg-info/dependency_links.txt
+Dry_Bean_Predictor.egg-info/requires.txt
+Dry_Bean_Predictor.egg-info/top_level.txt
