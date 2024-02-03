@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 ### Run the Streamlit App:
 ```
-streamlit run src/app.py
+streamlit run Jupyter Notebook/app.py
 ```
 This will start the Streamlit application locally, and you can access it through your web browser.
 
